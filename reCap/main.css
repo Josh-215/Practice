@@ -1,0 +1,18 @@
+img { 
+height: 200px;
+
+}
+.text{
+  background-color: aqua;
+}
+#text{
+  background-color: brown;
+  color: white;
+}
+
+body{
+  background-color: blueviolet;
+}
+a{
+  background-color: white;
+}
