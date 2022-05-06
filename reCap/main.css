@@ -1,18 +1,12 @@
-img { 
-height: 200px;
+#div1 {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 0;
+  transition: 2s;
+}
+.endingPosition{
+    left: 200px !important;
+}
 
-}
-.text{
-  background-color: aqua;
-}
-#text{
-  background-color: brown;
-  color: white;
-}
-
-body{
-  background-color: blueviolet;
-}
-a{
-  background-color: white;
-}
